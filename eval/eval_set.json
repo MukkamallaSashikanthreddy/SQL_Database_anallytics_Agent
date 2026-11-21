@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which product categories generated the most revenue?",
+    "expected_columns": ["category", "revenue"],
+    "intent": "category_revenue"
+  },
+  {
+    "question": "Show monthly sales revenue.",
+    "expected_columns": ["month", "revenue"],
+    "intent": "monthly_revenue"
+  },
+  {
+    "question": "Who are the top five customers by order value?",
+    "expected_columns": ["customer_name", "region", "revenue"],
+    "intent": "top_customers"
+  },
+  {
+    "question": "How many orders were placed?",
+    "expected_columns": ["order_count"],
+    "intent": "order_count"
+  }
+]
