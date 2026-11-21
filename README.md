@@ -223,3 +223,5 @@ Only list Gemini mode, LangGraph execution and test counts after you have run th
 ## Credits and licence
 
 This is a fresh implementation created for learning and portfolio use. Keep this README's provenance statement and add your own meaningful features and documentation as you develop it. No third-party source code is bundled intentionally. Review the licence terms of dependencies you install.
+#   S Q L _ D a t a b a s e _ a n a l l y t i c s _ A g e n t  
+ 
