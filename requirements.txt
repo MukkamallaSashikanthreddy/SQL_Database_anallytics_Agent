@@ -1,0 +1,23 @@
+# Runtime and agent workflow
+langgraph>=1.0,<2.0
+langchain-core>=1.0,<2.0
+langchain-google-genai>=4.0,<5.0
+
+# Database reflection and SQL safety
+SQLAlchemy>=2.0,<3.0
+sqlglot>=27.0,<40.0
+
+# Optional NeMo input guardrail (default disabled)
+nemoguardrails>=0.24.1,<0.26
+langchain-openai>=1.0,<2.0
+
+# Streamlit analytics UI
+streamlit>=1.42,<2.0
+pandas>=2.2,<4.0
+plotly>=6.0,<7.0
+python-dotenv>=1.0,<2.0
+
+# Test tooling
+pytest>=8.0,<10.0
+pytest-mock>=3.14,<4.0
+openpyxl>=3.1,<4.0
